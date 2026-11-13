@@ -1,0 +1,1 @@
+"""Product Profile domain module."""

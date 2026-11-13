@@ -1,0 +1,1 @@
+"""MarketMind AI backend package."""
